@@ -1,4 +1,4 @@
-<?
+<?php
 /**
  * Plugin Name: Sendy WPCF7
  * Description: Sendy integration with WP Contact Form 7
